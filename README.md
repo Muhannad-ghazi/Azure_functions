@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/TU3613619/5cd729cc-97de-4be0-9376-5cb7d9b95736/25eea210-4539-41d4-8aee-1d8702249e15/_apis/work/boardbadge/101921e6-4bd5-4474-8cd3-b8c2dcb56fbd)](https://dev.azure.com/TU3613619/5cd729cc-97de-4be0-9376-5cb7d9b95736/_boards/board/t/25eea210-4539-41d4-8aee-1d8702249e15/Microsoft.RequirementCategory)
 # Azure_functions
